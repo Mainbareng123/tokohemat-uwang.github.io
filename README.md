@@ -1,4 +1,4 @@
-<html>
+#<html>
 <head>
     <title>FORM PENDAFTARAN AKUN</title>
     <link rel="stylesheet" type="text/css" href="daftar.css">
