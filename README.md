@@ -78,13 +78,12 @@
         <button type="reset" value="Reset">Reset</button>
         </div>
         </fieldset>
-        <br>
-        <br>    
+        </div>
         </form>
         <div class="akun">
             <p>Sudah Punya Akun?</p>
             <a target="_self" href="login.html"><button class="btn btn-danger">Login</button></a>
-     </div>
+          </div>
           <br>
           <br>
     </div>
