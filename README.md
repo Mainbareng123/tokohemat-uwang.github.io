@@ -83,9 +83,10 @@
         <div class="akun">
             <p>Sudah Punya Akun?</p>
             <a target="_self" href="login.html"><button class="btn btn-danger">Login</button></a>
+            </div>
           <br>
           <br>
-    </div>
+
 </div>
 </body>
 </html>
