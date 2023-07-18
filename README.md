@@ -87,5 +87,7 @@
             <a target="_self" href="login.html"><button class="btn btn-danger">Login</button></a>
           <br>
           <br>
+        </div>
+        </div>
 </body>
 </html>
