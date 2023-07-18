@@ -26,6 +26,7 @@
         <h2 class="judul">Buat Akun Baru</h2>
         </div>
     <br>
+    <br>
 
     <div class="artikel">
         <form class="horizontal" action="daftar.html" method="post" onsubmit="return validasi(this);">
